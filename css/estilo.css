@@ -1,0 +1,43 @@
+.estilo-tabela thead th{
+	background-color: #1ed760;
+	border-color: #1ed760;
+	color: #fff;
+}
+
+/*CSS pesonalizando area de login*/
+
+.formulario-login{
+	border: 1px solid #e6e6e6;
+	border-radius: 5px;
+	padding: 10px;
+	padding-bottom: 15px;
+	margin: 10px;
+	margin-top: 100px;
+	margin-bottom: 65px;
+	background-color: #fff;
+	width: 450px;
+	max-width: 100%;
+}
+
+
+.formulario-login img{
+	display: block;
+	margin: auto;
+}
+
+.formulario-login .input-group-addon{
+	background-color: #fff;
+	border-radius: 1px;
+}
+
+#bemvindo{
+	padding-left: 5px;
+}
+
+#borda-tabela th{
+	border: 2px solid #000;
+}
+
+.page-link{
+	color:green!important;;
+}
