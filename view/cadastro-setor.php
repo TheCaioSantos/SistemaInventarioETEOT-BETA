@@ -40,43 +40,6 @@
                         </div>
 
 
-
-
-
-
-<div class="col-md-4">
-                            <div class="form-group">
-                                <label for="nivel">Nível de Acesso</label>
-                                <select name="nivel" data-placeholder="Choose a country..." class="standardSelect">
-                                    <option value="" label="default"></option>
-                            <option value="United States">United States</option>
-                            <option value="United Kingdom">United Kingdom</option>
-                            <option value="Afghanistan">Afghanistan</option>
-                            <option value="Aland Islands">Aland Islands</option>
-                            <option value="Albania">Albania</option>
-                            <option value="Algeria">Algeria</option>
-                            <option value="American Samoa">American Samoa</option>
-                            <option value="Andorra">Andorra</option>
-                            <option value="Angola">Angola</option>
-                            <option value="Anguilla">Anguilla</option>
-                            <option value="Antarctica">Antarctica</option>
-
-                                    </select>
-                                </div>
-                            </div>
-
-
-
-
-
-
-
-
-
-
-
-
-
                         <div class="card-body">
                             <button type="submit" class="btn btn-primary" role="button" id="cadastrar">Cadastrar</button>
                             <a href="?pagina=lista-setor" class="btn btn-danger">Cancelar</a>
